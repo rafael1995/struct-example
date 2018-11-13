@@ -93,12 +93,12 @@ export default {
 .item-gol {
   width: 15px;
   height: 15px;
-  background-image: url("../../assets/ball.png")
+  background-image: url("../../../assets/ball.png")
 }
 .item-cartao {
   width: 15px;
   height: 15px;
-  background-image: url("../../assets/yellow-card.png")
+  background-image: url("../../../assets/yellow-card.png")
 }
 .gol-left {
   float: left;

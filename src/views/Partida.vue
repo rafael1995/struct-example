@@ -18,9 +18,9 @@
 </template>
 
 <script>
-import Navbar from '../components/Navbar/Navbar'
-import Placar from '../components/Placar/Placar'
-import Escalacao from '../components/Escalacao/Escalacao'
+import Navbar from '../common/components/Navbar/Navbar'
+import Placar from '../common/components/Placar/Placar'
+import Escalacao from '../common/components/Escalacao/Escalacao'
 export default {
   name: 'Partida',
   props: {
